@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vipul Hiwarde</h1>
+<h1 align="center"><i>Hi 👋, I'm Vipul Hiwarde<i></h1>
 <h3 align="center">I am currently pursuing my B.Tech in Computer Science from DIEMS Aurangabad. I have a keen interest in Software Development, Open-Source and Competitive Programming.</h3>
 
 - 🔭 I’m currently working on **improving on Problem Solving Skills**
