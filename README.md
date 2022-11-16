@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **improving on Problem Solving Skills**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Data Egieerig**
 
-- 👯 I’m looking to collaborate on **AWS**
+- 👯 I’m looking to collaborate on **AWS Cloud**
 
-- 🤝 I’m looking for help with **Competitive Programming**
+- 🤝 I’m looking for help with **Big Data Technologies**
 
 - 💬 Ask me about **Software Development and Python related stuff**
 
