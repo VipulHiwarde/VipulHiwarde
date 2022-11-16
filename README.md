@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **improving on Problem Solving Skills**
 
-- 🌱 I’m currently learning **Data Egieerig**
+- 🌱 I’m currently learning **Data Engineerimg**
 
 - 👯 I’m looking to collaborate on **AWS Cloud**
 
